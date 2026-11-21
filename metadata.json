@@ -1,0 +1,8 @@
+{
+  "name": "Remix Q-Crop Merge",
+  "description": "Select, crop, and merge specific questions from PDFs into high-quality, custom question sets with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

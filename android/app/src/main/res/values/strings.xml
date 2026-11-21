@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Qset maker</string>
+    <string name="title_activity_main">Qset maker</string>
+    <string name="package_name">com.qsetmaker.app</string>
+    <string name="custom_url_scheme">com.qsetmaker.app</string>
+</resources>
